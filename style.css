@@ -1,0 +1,21 @@
+body{
+    font-family: "SUSE", sans-serif;
+    background-color: black;
+    color: white;
+}
+
+.Downloads{
+    font-size: xx-large;
+}
+
+.Logo{
+    font-size: x-small;
+}
+
+img{
+    height: 200px;
+}
+
+h1{
+    font-size: xx-large;
+}
