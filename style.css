@@ -1,7 +1,10 @@
 body{
     font-family: "SUSE", sans-serif;
-    background-color: black;
+   background-image: url("https://i.pinimg.com/1200x/73/84/e6/7384e63ac1fd7dcb8a355aadb8c9dd0c.jpg");
     color: white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    backdrop-filter: blur(5px);
 }
 
 .Downloads{
